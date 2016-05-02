@@ -58,7 +58,7 @@ document.addEventListener("keyup", function(evt){
     }
     if(evt.keyCode === 40){
         box.goDown = false;
-    }    
+    }
 })
 
 function gameLoop(){

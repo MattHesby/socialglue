@@ -1,0 +1,16 @@
+{
+  "name": "socialglue",
+  "version": "1.0.0",
+  "description": "Move around, collect stuff, get larger, join together in size and in controls.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "websockets",
+    "agar"
+  ],
+  "author": "Matt Hesby",
+  "license": "ISC"
+}
